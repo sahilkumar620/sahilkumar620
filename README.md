@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sahil Kumar</h1>
-<h3 align="center">B.Tech CSE Student | Data Analytics Enthusiast</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahil+Kumar;B.Tech+CSE+Student;Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -56,16 +57,6 @@
 
 ### 🚀 Featured Projects
 
-#### 🏥 MediConnect
-**Technologies:** (add your stack here)  
-All-in-One Digital Healthcare Platform with Doctor Consultation, Ambulance, Pharmacy, and Lab Booking.  
-🔗 Repository: https://github.com/sahilkumar620/mediconnect
-
-#### 🏥 Hospital Management System
-**Technologies:** (add your stack here — e.g. Java / C++ / DBMS)  
-A management system to manage doctors and patients from a single website.  
-🔗 Repository: https://github.com/sahilkumar620/Hospital-Management
-
 #### 🍽️ Zomato Restaurant Data Analysis
 **Technologies:** Python · Pandas · Seaborn  
 Exploratory data analysis on a Zomato-style restaurant dataset — ratings, cuisine combinations, geographic trends, chain detection, and price-vs-services analysis (built during Cognifyz Data Analytics internship).
@@ -77,6 +68,8 @@ Exploratory data analysis on a Zomato-style restaurant dataset — ratings, cuis
 - 🏢 Restaurant chain detection
 - 💰 Price range vs. services analysis
 
+🔗 Repository: https://github.com/sahilkumar620/zomato-restaurant-data-analysis
+
 #### 🛍️ CodeAlpha Data Analytics Internship
 **Technologies:** Python · Pandas · Sentiment Analysis · Jupyter  
 Three-part project on a Women's Clothing E-Commerce Reviews dataset covering EDA, data visualization, and sentiment analysis.
@@ -86,16 +79,30 @@ Three-part project on a Women's Clothing E-Commerce Reviews dataset covering EDA
 - 📈 Data visualization of review trends
 - 💬 Sentiment analysis of customer reviews
 
-#### 📱 QR Scanner
-**Technologies:** (add your stack here)  
-A QR code scanner application.  
-🔗 Repository: https://github.com/sahilkumar620/QRSCANNER
-
 #### 🌐 Personal Portfolio
 **Technologies:** HTML · CSS · JS (built via Antigravity)  
 Dark-themed personal portfolio showcasing projects, work experience, education, and certifications.  
 🔗 Repository: https://github.com/sahilkumar620/SAHIL-PROTFOLIO  
 🔗 Live: https://sahilkumar620.github.io/SAHIL-PROTFOLIO/
+
+---
+
+### 💻 Web Development Projects
+
+#### 🏥 MediConnect
+**Technologies:** (add your stack here)  
+All-in-One Digital Healthcare Platform with Doctor Consultation, Ambulance, Pharmacy, and Lab Booking.  
+🔗 Repository: https://github.com/sahilkumar620/mediconnect
+
+#### 🏥 Hospital Management System
+**Technologies:** (add your stack here — e.g. Java / C++ / DBMS)  
+A management system to manage doctors and patients from a single website.  
+🔗 Repository: https://github.com/sahilkumar620/Hospital-Management
+
+#### 📱 QR Scanner
+**Technologies:** (add your stack here)  
+A QR code scanner application.  
+🔗 Repository: https://github.com/sahilkumar620/QRSCANNER
 
 ---
 
